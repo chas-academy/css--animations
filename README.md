@@ -1,6 +1,6 @@
 # Bootcamp FMW2025 - 🎞️ CSS-animationer
 
-Vi fortsätter med styling även denna vecka och ägnar lite tid åt animationer. Med hjälp av CSS kan man
+Vi fortsätter med styling även denna vecka och ägnar lite tid åt animationer. Med hjälp av CSS kan man animera vilket element som helst på otaliga sätt. Det varierar hur mycket animation som används, men det är väldigt sällan man stöter på en sida eller app helt utan animationer och det är alltid en bra bonuskunskap som uppskattas i arbetslivet.
 
 ## 💻 Förberedelser
 
