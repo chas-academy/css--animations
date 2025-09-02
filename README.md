@@ -34,6 +34,7 @@ Animationen/animationerna ska vid något tillfälle
 - Loading spinner
 - En SVG som flyger från höger till vänster
 - En SVG som flyger diagonalt
+- En logotyp (Text i en box med bakgrundsfärg)
 
 ## 🎁 Bonusuppgifter
 
